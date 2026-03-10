@@ -4,7 +4,7 @@ I am a **Media Content Engineer** and **Technical Artist** based in Toronto. I b
 
 ### 🛠️ What I’m up to
 * **Media Engineering:** I specialize in high-level video pipelines, optimizing **FFmpeg** workflows, and exploring how LLMs can enhance media automation.
-* **Game Development:** Deep-diving into **Godot & GDScript** via GDQuest. I have experience adapting engine documentation and creating custom 2D assets for specialized projects.
+* **Game Development:** Deep-diving into **Godot & GDScript** via GDQuest. I have experience creating games, adapting engine documentation and creating custom 2D assets for game dev projects.
 * **AI & Python:** Building a portfolio of tools using **PyTorch**, **Hugging Face**, and **OpenCV** to solve real-world media challenges.
 
 ### 🚀 Technical Toolkit
